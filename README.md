@@ -1,8 +1,6 @@
 # Trackly
 
-Professional expense tracking dashboard built with React, Vite, Tailwind CSS, Zustand, Supabase, Gemini AI, and PWA support.
-
-Author: **Rizky Ahmad Arief**
+Modern finance tracker for budgeting, debt, insights, and spending habits.
 
 ## Features
 
